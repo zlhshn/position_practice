@@ -141,6 +141,7 @@ main{
 
 .slack:hover{
     cursor: pointer;
-    outline: 2ps solid rgb(128, 14, 14);
+    outline: 2px solid rgb(128, 14, 14);
     outline-offset: 3px;
+    
 }
